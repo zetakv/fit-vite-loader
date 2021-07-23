@@ -1,7 +1,7 @@
 {
   "name": "fit-vite-loader",
   "version": "0.0.1",
-  "description": "转换部分语法，让webpack、vite可以共存，目前仅处理以下情况：",
+  "description": "转换部分语法，让webpack、vite可以共存",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +21,7 @@
     "url": "https://github.com/zetakv/fit-vite-loader/issues"
   },
   "homepage": "https://github.com/zetakv/fit-vite-loader#readme",
-  "devDependencies": {
+  "dependencies": {
     "@babel/generator": "^7.14.8",
     "@babel/parser": "^7.14.8",
     "@babel/traverse": "^7.14.8",
