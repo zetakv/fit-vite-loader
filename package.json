@@ -1,6 +1,6 @@
 {
   "name": "fit-vite-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "转换部分语法，让webpack、vite可以共存",
   "main": "index.js",
   "scripts": {
